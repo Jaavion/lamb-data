@@ -2,7 +2,7 @@ import setuptools
 
 
 REQUIRED = [
-	"numpy"
+	"numpy",
 	"pandas"
 ]
 with open("README.md", "r") as fh:
@@ -20,7 +20,7 @@ setuptools.setup(
     install_requires=REQUIRED,
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: GNU Library or Lesser General Public License (LGPL)",
+        "License :: OSI Approved :: Apple Public Source License 2.0 (APSL-2.0)",
         "Operating System :: OS Independent",
     ],
 ) 
