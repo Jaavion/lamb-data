@@ -20,7 +20,6 @@ setuptools.setup(
     install_requires=REQUIRED,
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: Apple Public Source License 2.0 (APSL-2.0)",
         "Operating System :: OS Independent",
     ],
 ) 
